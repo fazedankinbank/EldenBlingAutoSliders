@@ -9,7 +9,7 @@ Exporting works by sending key presses to navigate through each screen, taking s
 # Disclaimers
 - Exporting only works if your monitor and in-game resolutions are set to 1920x1080 and Elden Ring is full-screened on your main display.
 - Windows is the only supported OS.
-- Auto Sliders won't send the correct inputs if you're using a Non-QWERTY or international keyboard layout. You'll need to switch to the 'English (United States)' keyboard layout in Windows to fix this.
+- Auto Sliders won't send the correct inputs if you're using a non-QWERTY or international keyboard layout. You'll need to switch to the 'English (United States)' keyboard layout in Windows to fix this.
 - You can export from console if you use remote play on your PC and use the manual navigation option in the program. Importing is not possible through remote play because this program can't send inputs to remote play.
 - Github is only being used as a way to distribute the software as the code isn't open sourced. 
 
