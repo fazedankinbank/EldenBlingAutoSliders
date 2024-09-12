@@ -1,6 +1,6 @@
 # Elden Bling Auto Sliders
 Automatically import or export Elden Ring character creation sliders. There are three main scenarios where you'll find this program useful:
-- Automatically export your sliders from the game onto the [Elden Bling Sliders](https://eldenblingsliders.com/) website. No manual typing required. [Video](https://youtu.be/7AuwbdmkPG4)
+- Automatically export your sliders from the game onto the [Elden Bling Sliders website](https://eldenblingsliders.com/). No manual typing required. [Video](https://youtu.be/7AuwbdmkPG4)
 - Automatically import sliders shared using Elden Bling Sliders into your game. [Video](https://youtu.be/eGzAVpAZXio)
   - You'll need to get the JSON text for the sliders you want to import. You can get this by entering the 'JSON Share Code' onto the 'Get JSON' page of [the website](https://eldenblingsliders.com/). You can find share codes at the bottom of Elden Bling Sliders images shared on [r/SoulsSliders](https://www.reddit.com/r/SoulsSliders).
 - Export and import sliders on your PC so that you essentially have more than 15 save slots available.
@@ -8,11 +8,8 @@ Automatically import or export Elden Ring character creation sliders. There are 
 Exporting works by sending key presses to navigate through each screen, taking screenshots where the slider numbers should be, and using text recognition to extract the numbers. Importing works by sending key presses based on the JSON text. There's a more detailed guide within the program on how to use it.
 
 # Disclaimers
-- You might need to run the program as administrator if no keyboard inputs are being sent to Elden Ring.
 - Exporting only works if your monitor and in-game resolutions are set to 1920x1080 and Elden Ring is full-screened on your main display.
-- Windows is the only supported OS.
-- Auto Sliders won't send the correct inputs if you're using a non-QWERTY or international keyboard layout. You'll need to switch to the 'English (United States)' keyboard layout in Windows to fix this.
-- You can export from console if you use remote play on your PC and use the manual navigation option in the program. Importing is not possible through remote play because this program can't send inputs to remote play.
+- You can export from console if you use remote play on your PC and use the manual navigation option in the program. Importing is not possible on console because this program can't send inputs to remote play.
 - Github is only being used as a way to distribute the software as the code isn't open sourced. 
 
 # Installation
